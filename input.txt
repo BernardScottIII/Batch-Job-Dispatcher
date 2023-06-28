@@ -1,0 +1,7 @@
++ 2 touch asgn1.c 2
++ 3 cp asgn1.c asgn2.c 4
++ 1 ls 5
++ 2 ps -xa 1
++ 2 rm asgn2.c 6
++ 1 ls 7
++ 2 rm asgn1.c 6
